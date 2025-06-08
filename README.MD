@@ -205,8 +205,17 @@ MIT License – see [`LICENSE`](LICENSE) for details.
 
 ---
 
+Sure! Here's an updated version of your **Support** section with your phone number and email added:
+
+---
+
 ##  Support
 
-If you need help setting up, testing, or deploying this project, feel free to reach out or open an issue in the repo.
+If you need help setting up, testing, or deploying this project, feel free to reach out via:
+
+*  **Phone**: +254799311413
+*  **Email**: [www.owinocalvince@gmail.com](mailto:www.owinocalvince@gmail.com)
+
+Alternatively, you can open an issue in the repo.
 
 ---
