@@ -205,10 +205,6 @@ MIT License – see [`LICENSE`](LICENSE) for details.
 
 ---
 
-Sure! Here's an updated version of your **Support** section with your phone number and email added:
-
----
-
 ##  Support
 
 If you need help setting up, testing, or deploying this project, feel free to reach out via:
